@@ -16,9 +16,7 @@ public class BonjourNom {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Bonjour John Doe");
-        System.out.println("Bonjour John Doe");
-        //Commentaires 44
-        System.out.println("test");
+ 
     }
     
 }
